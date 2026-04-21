@@ -17,4 +17,4 @@ This project focuses on predicting customer churn in the telecom industry using 
 - Identified key churn drivers such as customer tenure, usage patterns, and equipment age.
 - Provided actionable business insights for customer retention strategies.
 
-[View full project report (PDF)] (./Explainable Machine Learning for Telecom Customer Churn using XGBoost & SHAP.pdf)
+View full project report (PDF) [(./Explainable Machine Learning for Telecom Customer Churn using XGBoost & SHAP.pdf)]
